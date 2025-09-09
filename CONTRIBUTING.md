@@ -1,18 +1,16 @@
-# 🤝 Contributing to Project Name
+# 🤝 Contributing to Featured Free Fonts
 
-First off, thank you for considering contributing to Project Name! It's people like you that make the open source community such an amazing place to learn, inspire, and create.
+First off, thank you for considering contributing to Featured Free Fonts! It's people like you that make high-quality typography accessible to everyone and help expand our curated collection of free commercial fonts.
 
 ## 📋 Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
 - [Getting Started](#getting-started)
 - [How Can I Contribute?](#how-can-i-contribute)
-- [Development Setup](#development-setup)
+- [Font Submission Guidelines](#font-submission-guidelines)
 - [Pull Request Process](#pull-request-process)
-- [Coding Standards](#coding-standards)
-- [Commit Guidelines](#commit-guidelines)
-- [Testing Guidelines](#testing-guidelines)
-- [Documentation](#documentation)
+- [Documentation Standards](#documentation-standards)
+- [License Verification](#license-verification)
 
 ## 📜 Code of Conduct
 
@@ -24,29 +22,19 @@ This project and everyone participating in it is governed by our [Code of Conduc
 
 We welcome many different types of contributions including:
 
-- 🐛 **Bug reports and fixes**
-- ✨ **Feature requests and implementations**
-- 📚 **Documentation improvements**
-- 🎨 **UI/UX enhancements**
-- 🧪 **Test improvements**
-- 🌍 **Translations**
-- 💡 **Ideas and suggestions**
+- 🎨 **Font submissions** - Adding new free commercial fonts to our collection
+- 🔍 **License verification** - Helping verify and update licensing information
+- 📚 **Documentation improvements** - Enhancing font descriptions and usage examples
+- 🐛 **Bug reports** - Reporting broken links or outdated information
+- 🌍 **Translations** - Translating font descriptions and documentation
+- 💡 **Feature suggestions** - Ideas for improving the collection and database
 
 ### Before Contributing
 
-1. Check if there's already an [issue](https://github.com/leonwong282/simple-beatiful-open-project-templete/issues) for your contribution
-2. For major changes, please open an issue first to discuss what you would like to change
-3. Make sure your contribution aligns with the project's goals and roadmap
-
-## 🛠️ Development Setup
-
-### Prerequisites
-
-- Node.js (v18.0.0 or higher)
-- npm, yarn, or pnpm
-- Git
-
-### Setup Steps
+1. Check if the font is already in our [collection](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74)
+2. Verify that the font is indeed free for commercial use
+3. For major changes, please open an [issue](https://github.com/leonwong282/featured-free-font/issues) first to discuss
+4. Make sure your contribution aligns with our quality standards
 
 1. **Fork the repository**
    ```bash
@@ -152,185 +140,9 @@ Add screenshots here
 - [ ] New and existing unit tests pass locally with my changes
 ```
 
-## 📝 Coding Standards
-
-### General Guidelines
-
-- Write clean, readable, and maintainable code
-- Follow the existing code style and patterns
-- Use meaningful variable and function names
-- Comment complex logic and algorithms
-- Keep functions small and focused
-
-### JavaScript/TypeScript
-
-```javascript
-// Use descriptive variable names
-const userAccountBalance = 1000;
-
-// Use const for immutable values, let for mutable
-const API_URL = 'https://api.example.com';
-let currentUser = null;
-
-// Use arrow functions for short functions
-const calculateTotal = (items) => items.reduce((sum, item) => sum + item.price, 0);
-
-// Use async/await instead of promises when possible
-async function fetchUserData(userId) {
-  try {
-    const response = await fetch(`/api/users/${userId}`);
-    return await response.json();
-  } catch (error) {
-    console.error('Failed to fetch user data:', error);
-    throw error;
-  }
-}
-```
-
-### CSS/Styling
-
-- Use BEM methodology for CSS classes
-- Use CSS custom properties for theming
-- Mobile-first responsive design
-- Prefer CSS Grid and Flexbox for layouts
-
-### File Structure
-
-```
-src/
-├── components/          # Reusable UI components
-├── pages/              # Page components
-├── hooks/              # Custom React hooks
-├── utils/              # Utility functions
-├── types/              # TypeScript type definitions
-├── styles/             # Global styles and themes
-└── __tests__/          # Test files
-```
-
 ## 📝 Commit Guidelines
 
 We follow the [Conventional Commits](https://www.conventionalcommits.org/) specification.
-
-### Commit Message Format
-
-```
-<type>[optional scope]: <description>
-
-[optional body]
-
-[optional footer(s)]
-```
-
-### Types
-
-- `feat`: A new feature
-- `fix`: A bug fix
-- `docs`: Documentation only changes
-- `style`: Changes that do not affect the meaning of the code
-- `refactor`: A code change that neither fixes a bug nor adds a feature
-- `perf`: A code change that improves performance
-- `test`: Adding missing tests or correcting existing tests
-- `chore`: Changes to the build process or auxiliary tools
-
-### Examples
-
-```bash
-feat: add user authentication system
-fix: resolve memory leak in image processing
-docs: update API documentation
-style: format code with prettier
-refactor: extract utility functions
-test: add unit tests for user service
-chore: update dependencies
-```
-
-## 🧪 Testing Guidelines
-
-### Testing Requirements
-
-- All new features must include tests
-- Bug fixes should include regression tests
-- Maintain or improve code coverage
-- Tests should be clear and descriptive
-
-### Testing Commands
-
-```bash
-# Run all tests
-npm test
-
-# Run tests in watch mode
-npm run test:watch
-
-# Run tests with coverage
-npm run test:coverage
-
-# Run specific test file
-npm test -- UserService.test.js
-
-# Run end-to-end tests
-npm run test:e2e
-```
-
-### Writing Tests
-
-```javascript
-// Example unit test
-describe('UserService', () => {
-  describe('getUserById', () => {
-    it('should return user data when user exists', async () => {
-      // Arrange
-      const userId = '123';
-      const expectedUser = { id: '123', name: 'John Doe' };
-      
-      // Act
-      const result = await UserService.getUserById(userId);
-      
-      // Assert
-      expect(result).toEqual(expectedUser);
-    });
-
-    it('should throw error when user does not exist', async () => {
-      // Arrange
-      const userId = 'nonexistent';
-      
-      // Act & Assert
-      await expect(UserService.getUserById(userId)).rejects.toThrow('User not found');
-    });
-  });
-});
-```
-
-## 📚 Documentation
-
-### Documentation Requirements
-
-- Update README.md for new features
-- Add JSDoc comments for public APIs
-- Update CHANGELOG.md
-- Create or update relevant guides
-
-### JSDoc Example
-
-```javascript
-/**
- * Calculates the total price of items in a shopping cart
- * @param {Array<Object>} items - Array of cart items
- * @param {number} items[].price - Price of the item
- * @param {number} items[].quantity - Quantity of the item
- * @param {number} [taxRate=0] - Tax rate to apply (optional)
- * @returns {number} Total price including tax
- * @example
- * const total = calculateCartTotal([
- *   { price: 10, quantity: 2 },
- *   { price: 5, quantity: 1 }
- * ], 0.1);
- * // Returns 27.5 (25 + 10% tax)
- */
-function calculateCartTotal(items, taxRate = 0) {
-  // Implementation here
-}
-```
 
 ## 🏷️ Issue and PR Labels
 
@@ -354,15 +166,6 @@ Contributors will be recognized in:
 - Release notes
 - GitHub contributors page
 - Annual contributor highlights
-
-## 📞 Getting Help
-
-If you need help with contributing:
-
-- 💬 [Join our Discord](https://discord.gg/your-discord)
-- 📧 Email us at: contribute@your-project.com
-- 📝 [Open a discussion](https://github.com/leonwong282/simple-beatiful-open-project-templete/discussions)
-- 🐦 Tweet us [@your-handle](https://twitter.com/your-handle)
 
 ## 📋 Contributor Checklist
 

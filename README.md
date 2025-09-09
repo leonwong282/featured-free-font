@@ -1,327 +1,230 @@
-<a id="readme-top"></a>
+<a id="readme</a>
 
 <div align="center">
 
-# 🚀 Simple Beautiful Open Project Template
+# 🎨 Featured Free Fonts
 
-> A modern, beautiful, and well-structured open source project template
+> A curated collection of beautiful, free fonts for commercial use
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GPL--3.0-red?style=for-the-badge)
-![Template](https://img.shields.io/badge/Template-Ready-green?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-purple?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=yellow)
+![Fonts](https://img.shields.io/badge/Fonts-20+-green?style=for-the-badge)
+![Commercial Use](https://img.shields.io/badge/Commercial-Free-purple?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/leonwong282/featured-free-font?style=for-the-badge&color=yellow)
 
 [🌍 English](README.md) | [🇹🇼 繁體中文](README.zh-TW.md) 
 
+[🌐 Browse Full Collection](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74)
+
 </div>
-
-<!-- 
-📋 Badge Options - Choose the ones that fit your project:
-
-🔧 Development Status:
-![Status](https://img.shields.io/badge/Status-Stable-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Alpha-red?style=for-the-badge)
-
-📊 Statistics:
-![Downloads](https://img.shields.io/github/downloads/leonwong282/simple-beatiful-open-project-templete/total?style=for-the-badge&color=blue)
-![Forks](https://img.shields.io/github/forks/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=green)
-![Issues](https://img.shields.io/github/issues/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=orange)
-![Contributors](https://img.shields.io/github/contributors/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=purple)
-
-🌐 Language & Internationalization:
-![Internationalization](https://img.shields.io/badge/i18n-2_Languages-orange?style=for-the-badge)
-
-💼 Maintenance:
-![Maintained](https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=blue)
-![Release](https://img.shields.io/github/v/release/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=purple)
--->
 
 ## ✨ Features
 
-- 🎯 **Feature 1**: Brief description of the main feature
-- 🚀 **Feature 2**: Another key feature that makes your project stand out
-- 🛡️ **Feature 3**: Security or reliability focused feature
-- 🎨 **Feature 4**: UI/UX or design related feature
-- 📱 **Feature 5**: Cross-platform or responsive feature
-- ⚡ **Feature 6**: Performance or speed optimization
+- 🎯 **Curated Selection**: Hand-picked fonts verified for commercial use
+- 🚀 **Multi-Language Support**: CJK (Chinese, Japanese, Korean) and Latin fonts
+- 🛡️ **License Verified**: All fonts confirmed free for commercial projects
+- 🎨 **Diverse Categories**: Sans-serif, serif, display, and script typefaces
+- 📱 **Easy Access**: Interactive database with search and filter capabilities
+- ⚡ **Regular Updates**: Continuously expanding collection of quality fonts
 
-## 🛠️ Tech Stack
+## 🎨 Font Categories
 
-- **Frontend**: React, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, PostgreSQL
-- **Testing**: Jest, Cypress, Testing Library
-- **DevOps**: Docker, GitHub Actions, AWS
-- **Tools**: ESLint, Prettier, Husky
+Our collection includes fonts from the following categories:
+
+- **Sans-Serif**: Modern, clean typefaces perfect for UI and body text
+- **Serif**: Traditional typefaces ideal for formal documents and long-form reading
+- **Display**: Eye-catching fonts designed for headlines and creative projects
+- **Script**: Handwritten-style fonts for artistic and decorative purposes
+
+### Language Support
+
+- **Latin**: English and European languages
+- **CJK**: Chinese (Simplified & Traditional), Japanese, Korean
+- **Multi-script**: Fonts supporting multiple writing systems
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Quick Start
 
-### Using as Template
+### Browse the Collection
 
-This repository is designed as a GitHub template. You can create a new project from it using:
+Visit our **[Interactive Font Database](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74)** to:
 
-**Method 1: GitHub Web Interface (Recommended)**
-1. Click the "Use this template" button above
-2. Configure your new repository
-3. Start coding!
+- 🔍 Search fonts by name, style, or language
+- 📊 Filter by category and commercial use status
+- 📝 View detailed licensing information
+- 🔗 Access download links and official sources
 
-**Method 2: GitHub CLI**
-```bash
-gh repo create your-project-name \
-  --template leonwong282/simple-beatiful-open-project-templete \
-  --public --clone
-```
+### Using Fonts in Your Projects
 
-**Method 3: Manual Clone**
-```bash
-git clone https://github.com/leonwong282/simple-beatiful-open-project-templete.git your-project
-cd your-project
-rm -rf .git && git init
-```
+1. **Choose a font** from our curated collection
+2. **Download** from the official source or repository
+3. **Verify license** requirements for your specific use case
+4. **Install** the font in your design software or web project
 
-📖 **For detailed instructions, see [TEMPLATE_USAGE.md](TEMPLATE_USAGE.md)**
+### Font Installation
 
-### Prerequisites
+**For Desktop Applications:**
+- Double-click the font file and click "Install"
+- Or copy to your system's font directory
 
-Before you begin, ensure you have the following installed:
+**For Web Projects:**
+```css
+/* Using web fonts */
+@import url('https://fonts.googleapis.com/css2?family=FontName');
 
-- [Node.js](https://nodejs.org/) (v18.0.0 or higher)
-- [Git](https://git-scm.com/)
-- [GitHub CLI](https://cli.github.com/) (optional, for Method 2)
-
-### Development Setup (After Using Template)
-
-Once you've created your project from this template:
-
-1. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   # or
-   pnpm install
-   ```
-
-2. **Set up environment variables**
-   ```bash
-   cp .env.example .env.local
-   # Edit .env.local with your configuration
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-4. **Open your browser**
-  
-   Navigate to [http://localhost:3000](http://localhost:3000)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📖 Usage
-
-### Basic Usage
-
-```bash
-# Example command
-npm run start
-
-# With options
-npm run start --option value
-```
-
-### Advanced Usage
-
-```javascript
-// Code example
-import { ProjectFunction } from 'simple-beatiful-open-project-templete';
-
-const result = ProjectFunction({
-  option1: 'value1',
-  option2: 'value2'
-});
-
-console.log(result);
-```
-
-### Configuration
-
-Create a `config.json` file in your project root:
-
-```json
-{
-  "option1": "value1",
-  "option2": "value2",
-  "advanced": {
-    "feature": true,
-    "timeout": 5000
-  }
+/* Using local fonts */
+@font-face {
+  font-family: 'YourFontName';
+  src: url('path/to/font.woff2') format('woff2');
 }
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📊 Examples
+## 📖 Featured Fonts
 
-### Example 1: Basic Implementation
+### Sans-Serif Fonts
 
-```javascript
-// Your example code here
-```
+| Font Name | Description | Languages | License |
+|-----------|-------------|-----------|---------|
+| **Source Han Sans** | Adobe and Google's pan-CJK sans serif | CJK, Latin | OFL |
+| **Alimama ShuHeiTi** | Alibaba's free commercial Chinese sans | Chinese | Free Commercial |
+| **GenSenRounded TW** | Pan-CJK rounded style for UI and general typography | CJK | Free Commercial |
+| **MaokenAssortedSans** | Chinese sans serif for UI headings and general use | Chinese | Free Commercial |
 
-### Example 2: Advanced Features
+### Serif Fonts
 
-```javascript
-// More complex example
-```
+| Font Name | Description | Languages | License |
+|-----------|-------------|-----------|---------|
+| **Source Han Serif** | Pan-CJK serif typeface | CJK, Latin | OFL |
+| **TW-Sung** | Traditional Chinese Song/Serif style for body text | Chinese Traditional | Free Commercial |
+| **LXGW WenKai** | Chinese serif with elegant calligraphic style | Chinese | OFL |
+| **Ziticqnananti** | Chinese serif style with traditional aesthetics | Chinese | Free Commercial |
 
-## 🧪 Testing
+### Display Fonts
 
-```bash
-# Run tests
-npm test
+| Font Name | Description | Languages | License |
+|-----------|-------------|-----------|---------|
+| **Alimama DaoLiTi** | Chinese display typeface with artistic style | Chinese | Free Commercial |
+| **VonwaonBitmap 16px** | Chinese pixel bitmap font for retro designs | Chinese | CC0 Public Domain |
+| **Maoken Heavy Labourer** | Bold Chinese display perfect for headlines | Chinese | Free Commercial |
+| **QTxiaotu** | Playful Chinese display typeface | Chinese | Free Commercial |
+| **Sjpomo** | Chinese display with ink-splash artistic style | Chinese | Free Commercial |
 
-# Run tests with coverage
-npm run test:coverage
+### Script & Handwritten
 
-# Run end-to-end tests
-npm run test:e2e
-```
+| Font Name | Description | Languages | License |
+|-----------|-------------|-----------|---------|
+| **Qiantubifengshouxieti** | Handwritten script-style Chinese | Chinese | Free Commercial |
+| **Qiantumakeshouxieti** | Script-style Chinese display with brush aesthetics | Chinese | Free Commercial |
 
-## 📦 Build
+> 📋 **Note**: This is just a sample of our collection. Visit our [complete interactive database](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74) for the full collection with detailed information, download links, licensing details, and advanced search capabilities.
 
-```bash
-# Build for production
-npm run build
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Build and analyze bundle
-npm run build:analyze
-```
+## ⚖️ License Information
 
-## 🐳 Docker
+### Repository License
+This repository and its documentation are licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
-```bash
-# Build Docker image
-docker build -t simple-beatiful-open-project-templete .
+### Font Licenses
+**Important**: Each font in our collection has its own license terms:
 
-# Run with Docker
-docker run -p 3000:3000 simple-beatiful-open-project-templete
+- **OFL (SIL Open Font License)**: Free for personal and commercial use
+- **Free Commercial**: Explicitly stated as free for commercial use by the author
+- **CC0 Public Domain**: No rights reserved, free for any use
+- **Custom Free License**: Various free commercial licenses as specified by authors
 
-# Using Docker Compose
-docker-compose up
-```
+**Always verify** the specific license requirements for each font before use in commercial projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Help us expand our curated collection of free fonts.
+
+### How to Contribute
+
+1. **Suggest New Fonts**: Submit fonts that are free for commercial use
+2. **Verify Licenses**: Help us verify and update licensing information
+3. **Improve Documentation**: Enhance font descriptions and usage examples
+4. **Report Issues**: Let us know about broken links or licensing changes
 
 ### Quick Contribution Steps
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch (`git checkout -b feature/AddNewFont`)
+3. Commit your changes (`git commit -m 'Add new font: FontName'`)
+4. Push to the branch (`git push origin feature/AddNewFont`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📋 Roadmap
-
-- [ ] Feature 1 implementation
-- [ ] Feature 2 development
-- [ ] Performance optimizations
-- [ ] Mobile app version
-- [ ] API v2.0 release
-- [ ] Documentation improvements
-
-See the [open issues](https://github.com/leonwong282/simple-beatiful-open-project-templete/issues) for a full list of proposed features and known issues.
+See our [Contributing Guide](CONTRIBUTING.md) for detailed guidelines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📄 License
 
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
+See the [open issues](https://github.com/leonwong282/featured-free-font/issues) for a full list of proposed features and suggestions.
+
+See the [open issues](https://github.com/leonwong282/featured-free-font/issues) for a full list of proposed features and suggestions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors
 
-- **Leon Wong** - *Initial work* - [leonwong282](https://github.com/leonwong282)
+- **Leon Wong** - *Curator & Maintainer* - [leonwong282](https://github.com/leonwong282)
 
-See also the list of [contributors](https://github.com/leonwong282/simple-beatiful-open-project-templete/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/leonwong282/featured-free-font/contributors) who helped expand this collection.
 
 ## 🙏 Acknowledgments
 
-This template was inspired by and built upon the work of many excellent open source projects and communities. We are grateful to:
+This collection is made possible thanks to the generous work of font designers and foundries who make their typefaces freely available for commercial use. Special thanks to:
 
-### 📚 Documentation & Templates
-- **[Best-README-Template](https://github.com/othneildrew/Best-README-Template)** - Excellent README structure and formatting inspiration
-- **[Keep a Changelog](https://keepachangelog.com/en/1.0.0/)** - Changelog format standards
-- **[Contributor Covenant](https://www.contributor-covenant.org/)** - Code of Conduct template
+### 🎨 Font Designers & Foundries
+- **Adobe Fonts** - For Source Han Sans/Serif and other open-source typefaces
+- **Google Fonts** - For collaboration on pan-CJK font projects
+- **Alibaba Design** - For releasing high-quality commercial-free Chinese fonts
+- **Independent Designers** - Who share their creative work with the community
 
-### 🛠️ Development Tools & Standards
-- **[Shields.io](https://shields.io/)** - Beautiful and informative badges
-- **[EditorConfig](https://editorconfig.org/)** - Consistent coding styles across editors
-- **[Semantic Versioning](https://semver.org/spec/v2.0.0.html)** - Version numbering standards
-- **[GitHub](https://github.com/)** - Platform and tools that make open source collaboration possible
+### �️ Technical Platforms
+- **GitHub** - For hosting and collaboration tools
+- **Notion** - For providing the database platform for our interactive collection
+- **Font Communities** - For ongoing discussions about typography and licensing
 
-### 🎨 UI/UX Inspiration
-- **[GitHub's own templates](https://github.com/github)** - Official GitHub repository templates
-- **[Awesome README](https://github.com/matiassingers/awesome-readme)** - Curated list of awesome READMEs
-- **[readme.so](https://readme.so/)** - README editor and generator
-
-### 🔧 Technical Stack
-- **[Node.js](https://nodejs.org/)** - JavaScript runtime
-- **[Vite](https://vitejs.dev/)** - Build tool and development server
-- **[TypeScript](https://www.typescriptlang.org/)** - Type-safe JavaScript
-- **[React](https://reactjs.org/)** - UI library
-- **[ESLint](https://eslint.org/)** - Code linting
-- **[Prettier](https://prettier.io/)** - Code formatting
-
-### 🌟 Special Thanks
-- **GitHub Community** - For continuous inspiration and feedback
-- **Open Source Contributors** - Who make projects like this possible
-- **Template Users** - Your usage and feedback help improve this template
+### 📚 Resources & Inspiration
+- **Unicode Consortium** - For standardizing text encoding across languages
+- **SIL International** - For the Open Font License that enables font freedom
+- **Typography Communities** - For sharing knowledge about font usage and design
 
 ---
 
-*If you're using this template and want to add your project to our showcase, feel free to [open an issue](https://github.com/leonwong282/simple-beatiful-open-project-templete/issues)!*
+*This project aims to make high-quality typography accessible to everyone. If you know of fonts that should be included in our collection, please [contribute](CONTRIBUTING.md)!*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📞 Support
 
-If you have any questions or need help, please:
+If you have questions about fonts, licensing, or this project:
 
-- 📝 [Open an issue](https://github.com/leonwong282/simple-beatiful-open-project-templete/issues/new)
-- 💬 [Start a discussion](https://github.com/leonwong282/simple-beatiful-open-project-templete/discussions)
-- 📧 Email us at: leonwong282@gmail.com
-- 🌐 Visit my blog: [leonwong282.com](https://leonwong282.com/)
+- 📝 [Open an issue](https://github.com/leonwong282/featured-free-font/issues/new)
+- 💬 [Start a discussion](https://github.com/leonwong282/featured-free-font/discussions)
+- 📧 Email: leonwong282@gmail.com
+- 🌐 Visit my website: [leonwong282.com](https://leonwong282.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔗 Links
 
-- **Live Demo**: [https://your-demo-url.com](https://your-demo-url.com)
-- **Documentation**: [https://docs.your-project.com](https://docs.your-project.com)
-- **API Reference**: [https://api.your-project.com](https://api.your-project.com)
-- **Blog**: [https://leonwong282.com/](https://leonwong282.com/)
+- **Interactive Database**: [Featured Free Fonts Collection](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74)
+- **Contributing**: [How to Contribute](CONTRIBUTING.md)
+- **Blog**: [Typography articles and updates](https://leonwong282.com/)
 
 ---
 
 <div align="center">
 
-**⭐ Star this repository if it helped you!**
+**⭐ Star this repository if it helped you find great fonts!**
 
-Made with ❤️ by [Leon](https://github.com/leonwong282)
+Made with ❤️ for the design community by [Leon](https://github.com/leonwong282)
 
 </div>

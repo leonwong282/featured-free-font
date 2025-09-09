@@ -2,326 +2,223 @@
 
 <div align="center">
 
-# 🚀 Simple Beautiful Open Project Template
+# 🎨 精選免費字體
 
-> 一個現代、美觀且結構良好的開源專案模板
+> 精心策劃的優質免費商用字體合集
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GPL--3.0-red?style=for-the-badge)
-![Template](https://img.shields.io/badge/Template-Ready-green?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-purple?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=yellow)
+![Fonts](https://img.shields.io/badge/Fonts-20+-green?style=for-the-badge)
+![Commercial Use](https://img.shields.io/badge/Commercial-Free-purple?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/leonwong282/featured-free-font?style=for-the-badge&color=yellow)
 
 [🌍 English](README.md) | [🇹🇼 繁體中文](README.zh-TW.md) 
 
+[🌐 瀏覽完整合集](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74)
+
 </div>
-
-<!-- 
-📋 徽章選項 - 選擇適合您專案的徽章：
-
-🔧 開發狀態:
-![Status](https://img.shields.io/badge/Status-Stable-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Alpha-red?style=for-the-badge)
-
-📊 統計資料:
-![Downloads](https://img.shields.io/github/downloads/leonwong282/simple-beatiful-open-project-templete/total?style=for-the-badge&color=blue)
-![Forks](https://img.shields.io/github/forks/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=green)
-![Issues](https://img.shields.io/github/issues/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=orange)
-![Contributors](https://img.shields.io/github/contributors/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=purple)
-
-🌐 語言與國際化:
-![Internationalization](https://img.shields.io/badge/i18n-2_Languages-orange?style=for-the-badge)
-
-💼 維護狀態:
-![Maintained](https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=blue)
-![Release](https://img.shields.io/github/v/release/leonwong282/simple-beatiful-open-project-templete?style=for-the-badge&color=purple)
--->
 
 ## ✨ 特色功能
 
-- 🎯 **功能一**: 主要功能的簡要描述
-- 🚀 **功能二**: 另一個讓您的專案脫穎而出的關鍵功能
-- 🛡️ **功能三**: 專注於安全性或可靠性的功能
-- 🎨 **功能四**: UI/UX 或設計相關功能
-- 📱 **功能五**: 跨平台或響應式功能
-- ⚡ **功能六**: 性能或速度優化
+- 🎯 **精心策劃**: 手工挑選並驗證的商用免費字體
+- 🚀 **多語言支援**: 涵蓋中日韓 (CJK) 及拉丁文字體
+- 🛡️ **授權驗證**: 所有字體均已確認可免費商用
+- 🎨 **多樣分類**: 無襯線、襯線、展示體和手寫體
+- 📱 **便捷存取**: 可搜尋和篩選的互動資料庫
+- ⚡ **定期更新**: 持續擴充的優質字體合集
 
-## 🛠️ 技術堆疊
+## 🎨 字體分類
 
-- **前端**: React, TypeScript, Tailwind CSS
-- **後端**: Node.js, Express, PostgreSQL
-- **測試**: Jest, Cypress, Testing Library
-- **DevOps**: Docker, GitHub Actions, AWS
-- **工具**: ESLint, Prettier, Husky
+我們的合集包含以下類別的字體：
+
+- **無襯線體**: 現代簡潔，適合介面設計和內文排版
+- **襯線體**: 傳統經典，適合正式文件和長篇閱讀
+- **展示體**: 引人注目，專為標題和創意專案設計
+- **手寫體**: 手寫風格，適用於藝術和裝飾用途
+
+### 語言支援
+
+- **拉丁文**: 英語和歐洲語言
+- **中日韓 (CJK)**: 中文（簡體和繁體）、日語、韓語
+- **多文字**: 支援多種書寫系統的字體
 
 <p align="right">(<a href="#readme-top">回到頂部</a>)</p>
 
 ## 🚀 快速開始
 
-### 使用模板
+### 瀏覽字體合集
 
-此儲存庫設計為 GitHub 模板。您可以使用以下方式建立新專案：
+造訪我們的 **[互動字體資料庫](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74)** 來：
 
-**方法一：GitHub 網頁介面（推薦）**
-1. 點擊上方的「Use this template」按鈕
-2. 配置您的新儲存庫
-3. 開始編程！
+- 🔍 按名稱、風格或語言搜尋字體
+- 📊 按類別和商用狀態篩選
+- 📝 檢視詳細的授權資訊
+- 🔗 取得下載連結和官方來源
 
-**方法二：GitHub CLI**
-```bash
-gh repo create your-project-name \
-  --template leonwong282/simple-beatiful-open-project-templete \
-  --public --clone
-```
+### 在專案中使用字體
 
-**方法三：手動複製**
-```bash
-git clone https://github.com/leonwong282/simple-beatiful-open-project-templete.git your-project
-cd your-project
-rm -rf .git && git init
-```
+1. **選擇字體** - 從我們精選的合集中挑選
+2. **下載字體** - 從官方來源或儲存庫下載
+3. **驗證授權** - 確認您的具體使用場景的授權要求
+4. **安裝字體** - 在設計軟體或網頁專案中安裝
 
-📖 **詳細說明請參閱 [TEMPLATE_USAGE.md](TEMPLATE_USAGE.md)**
+### 字體安裝
 
-### 系統需求
+**桌面應用程式：**
+- 雙擊字體檔案並點擊「安裝」
+- 或複製到系統字體目錄
 
-開始之前，請確保您已安裝以下軟體：
+**網頁專案：**
+```css
+/* 使用網路字體 */
+@import url('https://fonts.googleapis.com/css2?family=FontName');
 
-- [Node.js](https://nodejs.org/) (v18.0.0 或更高版本)
-- [Git](https://git-scm.com/)
-- [GitHub CLI](https://cli.github.com/)（可選，用於方法二）
-
-### 開發環境設定（使用模板後）
-
-使用此模板建立專案後：
-
-1. **安裝相依性**
-   ```bash
-   npm install
-   # 或
-   yarn install
-   # 或
-   pnpm install
-   ```
-
-2. **設定環境變數**
-   ```bash
-   cp .env.example .env.local
-   # 使用您的配置編輯 .env.local
-   ```
-
-3. **啟動開發伺服器**
-   ```bash
-   npm run dev
-   # 或
-   yarn dev
-   ```
-
-4. **開啟瀏覽器**
-  
-   導航至 [http://localhost:3000](http://localhost:3000)
-
-<p align="right">(<a href="#readme-top">回到頂部</a>)</p>
-
-## 📖 使用方法
-
-### 基本使用
-
-```bash
-# 範例指令
-npm run start
-
-# 帶選項
-npm run start --option value
-```
-
-### 進階使用
-
-```javascript
-// 程式碼範例
-import { ProjectFunction } from 'simple-beatiful-open-project-templete';
-
-const result = ProjectFunction({
-  option1: 'value1',
-  option2: 'value2'
-});
-
-console.log(result);
-```
-
-### 配置
-
-在專案根目錄建立 `config.json` 檔案：
-
-```json
-{
-  "option1": "value1",
-  "option2": "value2",
-  "advanced": {
-    "feature": true,
-    "timeout": 5000
-  }
+/* 使用本地字體 */
+@font-face {
+  font-family: 'YourFontName';
+  src: url('path/to/font.woff2') format('woff2');
 }
 ```
 
 <p align="right">(<a href="#readme-top">回到頂部</a>)</p>
 
-## 📊 範例
+## 📖 精選字體
 
-### 範例一：基本實作
+### 無襯線字體
 
-```javascript
-// 您的範例程式碼
-```
+| 字體名稱 | 描述 | 語言支援 | 授權類型 |
+|----------|------|----------|----------|
+| **思源黑體 (Source Han Sans)** | Adobe 與 Google 合作的泛中日韓無襯線字體 | 中日韓、拉丁文 | OFL |
+| **阿里媽媽數黑體** | 阿里巴巴免費商用中文無襯線字體 | 中文 | 免費商用 |
+| **源泉圓體 (GenSenRounded TW)** | 泛中日韓圓體風格，適合介面與一般排版 | 中日韓 | 免費商用 |
+| **貓啃什錦黑** | 中文無襯線，適合介面標題與普適場景 | 中文 | 免費商用 |
 
-### 範例二：進階功能
+### 襯線字體
 
-```javascript
-// 更複雜的範例
-```
+| 字體名稱 | 描述 | 語言支援 | 授權類型 |
+|----------|------|----------|----------|
+| **思源宋體 (Source Han Serif)** | 泛中日韓襯線字體 | 中日韓、拉丁文 | OFL |
+| **全字庫正宋體 (TW-Sung)** | 繁體中文宋體風格，適合內文排版 | 繁體中文 | 免費商用 |
+| **霞鶩文楷 (LXGW WenKai)** | 中文襯線字體，優雅的書法風格 | 中文 | OFL |
+| **字體傳奇南安體** | 中文襯線風格，具有傳統美學特色 | 中文 | 免費商用 |
 
-## 🧪 測試
+### 展示字體
 
-```bash
-# 執行測試
-npm test
+| 字體名稱 | 描述 | 語言支援 | 授權類型 |
+|----------|------|----------|----------|
+| **阿里媽媽刀隸體** | 中文展示字體，具有藝術風格 | 中文 | 免費商用 |
+| **鳳凰點陣體 16px** | 中文像素點陣字體，適合復古設計 | 中文 | CC0 公有領域 |
+| **貓啃網扛重族黑** | 粗重中文展示字體，適合標題設計 | 中文 | 免費商用 |
+| **千圖小兔體** | 活潑可愛的中文展示字體 | 中文 | 免費商用 |
+| **三極潑墨體** | 中文展示字體，具有潑墨藝術風格 | 中文 | 免費商用 |
 
-# 執行測試並產生覆蓋率報告
-npm run test:coverage
+### 手寫與書法體
 
-# 執行端對端測試
-npm run test:e2e
-```
+| 字體名稱 | 描述 | 語言支援 | 授權類型 |
+|----------|------|----------|----------|
+| **千圖筆鋒手寫體** | 手寫 Script 風格中文字體 | 中文 | 免費商用 |
+| **千圖馬克手寫體** | Script 風格中文展示字體，具有筆刷美學 | 中文 | 免費商用 |
 
-## 📦 建置
-
-```bash
-# 為生產環境建置
-npm run build
-
-# 建置並分析套件
-npm run build:analyze
-```
-
-## 🐳 Docker
-
-```bash
-# 建置 Docker 映像
-docker build -t simple-beatiful-open-project-templete .
-
-# 使用 Docker 執行
-docker run -p 3000:3000 simple-beatiful-open-project-templete
-
-# 使用 Docker Compose
-docker-compose up
-```
+> 📋 **注意**: 這只是我們合集的一個範例。請造訪我們的 [完整互動資料庫](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74) 檢視完整合集，包含詳細資訊、下載連結、授權詳情和進階搜尋功能。
 
 <p align="right">(<a href="#readme-top">回到頂部</a>)</p>
 
-## 🤝 貢獻
+## ⚖️ 授權資訊
 
-我們歡迎貢獻！請查看我們的[貢獻指南](CONTRIBUTING.md)了解詳情。
+### 儲存庫授權
+本儲存庫及其文件採用 GPL-3.0 授權 - 詳見 [LICENSE](LICENSE) 檔案。
+
+### 字體授權
+**重要提示**: 我們合集中的每個字體都有其自己的授權條款：
+
+- **OFL (SIL開放字體授權)**: 個人和商業用途均免費
+- **免費商用**: 作者明確聲明可免費商業使用
+- **CC0 公有領域**: 無版權保留，任何用途均免費
+- **自訂免費授權**: 作者指定的各種免費商業授權
+
+**請務必** 在商業專案中使用前驗證每個字體的具體授權要求。
+
+<p align="right">(<a href="#readme-top">回到頂部</a>)</p>
+
+## 🤝 參與貢獻
+
+我們歡迎貢獻！幫助我們擴展精選的免費字體合集。
+
+### 如何貢獻
+
+1. **推薦新字體**: 提交可免費商用的字體
+2. **驗證授權**: 幫助我們驗證和更新授權資訊
+3. **改進文件**: 完善字體描述和使用範例
+4. **回報問題**: 讓我們知道失效連結或授權變更
 
 ### 快速貢獻步驟
 
-1. Fork 儲存庫
-2. 建立您的功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交您的變更 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 開啟 Pull Request
+1. Fork 這個儲存庫
+2. 建立您的功能分支 (`git checkout -b feature/AddNewFont`)
+3. 提交您的變更 (`git commit -m 'Add new font: FontName'`)
+4. 推送到分支 (`git push origin feature/AddNewFont`)
+5. 建立 Pull Request
+
+詳細指南請參見我們的 [貢獻指南](CONTRIBUTING.md)。
 
 <p align="right">(<a href="#readme-top">回到頂部</a>)</p>
 
-## 📋 路線圖
+##  作者
 
-- [ ] 功能一實作
-- [ ] 功能二開發
-- [ ] 性能優化
-- [ ] 手機應用程式版本
-- [ ] API v2.0 發布
-- [ ] 文件改進
+- **Leon Wong** - *策展人與維護者* - [leonwong282](https://github.com/leonwong282)
 
-查看[開放議題](https://github.com/leonwong282/simple-beatiful-open-project-templete/issues)以獲取完整的建議功能和已知問題清單。
-
-<p align="right">(<a href="#readme-top">回到頂部</a>)</p>
-
-## 📄 授權條款
-
-本專案採用 GPL-3.0 授權條款 - 查看 [LICENSE](LICENSE) 檔案了解詳情。
-
-<p align="right">(<a href="#readme-top">回到頂部</a>)</p>
-
-## 👥 作者
-
-- **Leon Wong** - *初始開發* - [leonwong282](https://github.com/leonwong282)
-
-另請參閱參與此專案的[貢獻者](https://github.com/leonwong282/simple-beatiful-open-project-templete/contributors)清單。
+另請檢視幫助擴展此合集的 [貢獻者](https://github.com/leonwong282/featured-free-font/contributors) 清單。
 
 ## 🙏 致謝
 
-此模板的靈感來自於許多優秀開源專案和社群的工作成果。我們感謝：
+此合集的建立要感謝慷慨分享其字體作品供免費商業使用的字體設計師和字體廠商。特別感謝：
 
-### 📚 文檔與模板
-- **[Best-README-Template](https://github.com/othneildrew/Best-README-Template)** - 優秀的 README 結構和格式靈感
-- **[Keep a Changelog](https://keepachangelog.com/en/1.0.0/)** - 變更日誌格式標準
-- **[Contributor Covenant](https://www.contributor-covenant.org/)** - 行為準則模板
+### 🎨 字體設計師與廠商
+- **Adobe Fonts** - 思源黑體/宋體等開源字體
+- **Google Fonts** - 在泛中日韓字體專案上的合作
+- **阿里巴巴設計** - 發布高品質的免費商用中文字體
+- **獨立設計師** - 與社群分享創意作品的設計師們
 
-### 🛠️ 開發工具與標準
-- **[Shields.io](https://shields.io/)** - 美觀且資訊豐富的徽章
-- **[EditorConfig](https://editorconfig.org/)** - 跨編輯器的一致編碼風格
-- **[Semantic Versioning](https://semver.org/spec/v2.0.0.html)** - 版本號碼標準
-- **[GitHub](https://github.com/)** - 使開源協作成為可能的平台和工具
+### 🛠️ 技術平台
+- **GitHub** - 提供託管和協作工具
+- **Notion** - 為我們的互動合集提供資料庫平台
+- **字體社群** - 就字體和授權進行持續討論
 
-### 🎨 UI/UX 靈感
-- **[GitHub 官方模板](https://github.com/github)** - GitHub 官方儲存庫模板
-- **[Awesome README](https://github.com/matiassingers/awesome-readme)** - 精選的優秀 README 清單
-- **[readme.so](https://readme.so/)** - README 編輯器和產生器
-
-### 🔧 技術堆疊
-- **[Node.js](https://nodejs.org/)** - JavaScript 執行環境
-- **[Vite](https://vitejs.dev/)** - 建置工具和開發伺服器
-- **[TypeScript](https://www.typescriptlang.org/)** - 型別安全的 JavaScript
-- **[React](https://reactjs.org/)** - UI 函式庫
-- **[ESLint](https://eslint.org/)** - 程式碼檢查
-- **[Prettier](https://prettier.io/)** - 程式碼格式化
-
-### 🌟 特別感謝
-- **GitHub 社群** - 持續的靈感和回饋
-- **開源貢獻者** - 讓這樣的專案成為可能
-- **模板使用者** - 您的使用和回饋幫助改進此模板
+### � 資源與靈感
+- **Unicode 聯盟** - 標準化跨語言文字編碼
+- **SIL 國際** - 開放字體授權，讓字體自由成為可能
+- **字體設計社群** - 分享字體使用和設計知識
 
 ---
 
-*如果您正在使用此模板並希望將您的專案加入我們的展示，歡迎[開啟議題](https://github.com/leonwong282/simple-beatiful-open-project-templete/issues)！*
+*本專案旨在讓每個人都能取得高品質的字體設計。如果您知道應該包含在我們合集中的字體，請 [參與貢獻](CONTRIBUTING.md)！*
 
 <p align="right">(<a href="#readme-top">回到頂部</a>)</p>
 
 ## 📞 支援
 
-如果您有任何問題或需要協助，請：
+如果您對字體、授權或本專案有疑問：
 
-- 📝 [開啟議題](https://github.com/leonwong282/simple-beatiful-open-project-templete/issues/new)
-- 💬 [開始討論](https://github.com/leonwong282/simple-beatiful-open-project-templete/discussions)
-- 📧 發送電子郵件至：leonwong282@gmail.com
-- 🌐 造訪我的部落格：[leonwong282.com](https://leonwong282.com/)
+- 📝 [建立議題](https://github.com/leonwong282/featured-free-font/issues/new)
+- 💬 [開始討論](https://github.com/leonwong282/featured-free-font/discussions)
+- 📧 電子郵件: leonwong282@gmail.com
+- 🌐 造訪我的網站: [leonwong282.com](https://leonwong282.com/)
 
 <p align="right">(<a href="#readme-top">回到頂部</a>)</p>
 
 ## 🔗 連結
 
-- **線上展示**: [https://your-demo-url.com](https://your-demo-url.com)
-- **文件**: [https://docs.your-project.com](https://docs.your-project.com)
-- **API 參考**: [https://api.your-project.com](https://api.your-project.com)
-- **部落格**: [https://leonwong282.com/](https://leonwong282.com/)
+- **互動資料庫**: [精選免費字體合集](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74)
+- **文件**: [入門指南](docs/GETTING_STARTED.md)
+- **貢獻**: [如何貢獻](CONTRIBUTING.md)
+- **部落格**: [字體設計文章和更新](https://leonwong282.com/)
 
 ---
 
 <div align="center">
 
-**⭐ 如果這個儲存庫對您有幫助，請給它一個星星！**
+**⭐ 如果這個儲存庫幫您找到了好字體，請給個星號！**
 
-用 ❤️ 製作，作者 [Leon](https://github.com/leonwong282)
+為設計社群用❤️製作 by [Leon](https://github.com/leonwong282)
 
 </div>
