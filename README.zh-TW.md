@@ -84,42 +84,90 @@
 
 ## 📖 精選字體
 
-### 無襯線字體
+### 代碼字體（Code）
+| 字體名稱 | 簡介 | 語言 | 授權 |
+|---|---|---|---|
+| **Fira Code** | 以連字體驗著稱，優化常見運算子與符號，可讀性佳。 | En, Zh-Hant, Zh-Hans | OFL |
+| **Iosevka** | 高度可客製（寬度、連字、變體），高資訊密度仍清晰。 | En, Zh-Hant, Zh-Hans | OFL |
+| **JetBrains Mono** | 小字級清晰，連字完整，1 l I、0 O 辨識度高。 | En, Zh-Hant, Zh-Hans | OFL |
+| **Source Code Pro** | 筆畫乾淨，長時間閱讀舒適，家族齊全。 | En, Zh-Hant, Zh-Hans | OFL |
 
-| 字體名稱 | 描述 | 語言支援 | 授權類型 |
-|----------|------|----------|----------|
-| **思源黑體 (Source Han Sans)** | Adobe 與 Google 合作的泛中日韓無襯線字體 | 中日韓、拉丁文 | OFL |
-| **阿里媽媽數黑體** | 阿里巴巴免費商用中文無襯線字體 | 中文 | 免費商用 |
-| **源泉圓體 (GenSenRounded TW)** | 泛中日韓圓體風格，適合介面與一般排版 | 中日韓 | 免費商用 |
-| **貓啃什錦黑** | 中文無襯線，適合介面標題與普適場景 | 中文 | 免費商用 |
+### 無襯線（Sans）
+| 字體名稱 | 簡介 | 語言 | 授權 |
+|---|---|---|---|
+| **Alimama FangYuanTi VF** | 阿里巴巴免費商用中文圓體家族；線上線下全渠道可用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **Alimama ShuHeiTi** | 阿里巴巴免費商用中文無襯線；全渠道可用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **GenSenRounded TW** | 泛中日韓圓體風格，適合介面與一般排版。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **MaokenAssortedSans** | 中文無襯線，適合介面標題與普適場景。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **Source Han Sans** | Adobe 與 Google 泛 CJK 無襯線。 | En, Zh-Hant, Zh-Hans, Ja, Ko | OFL |
+| **TsangershuYuanT** | 倉耳舒圓體，中文圓體無襯線；列於免費字體。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
 
-### 襯線字體
+### 襯線（Serif）
+| 字體名稱 | 簡介 | 語言 | 授權 |
+|---|---|---|---|
+| **LXGW WenKai** | 開源中文襯線風格字體；可自由個人與商用。 | En, Zh-Hant, Zh-Hans | OFL |
+| **Source Han Serif** | 泛 CJK 襯線字體。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
+| **TW-Sung** | 繁中宋體風格，適合正文字排印。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **ziticqnananti** | 中文襯線風格；作者聲明免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
 
-| 字體名稱 | 描述 | 語言支援 | 授權類型 |
-|----------|------|----------|----------|
-| **思源宋體 (Source Han Serif)** | 泛中日韓襯線字體 | 中日韓、拉丁文 | OFL |
-| **全字庫正宋體 (TW-Sung)** | 繁體中文宋體風格，適合內文排版 | 繁體中文 | 免費商用 |
-| **霞鶩文楷 (LXGW WenKai)** | 中文襯線字體，優雅的書法風格 | 中文 | OFL |
-| **字體傳奇南安體** | 中文襯線風格，具有傳統美學特色 | 中文 | 免費商用 |
+### 展示（Display）
+| 字體名稱 | 簡介 | 語言 | 授權 |
+|---|---|---|---|
+| **Alimama DaoLiTi** | 阿里中文展示字；官方聲明可免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **Alimama DongFangDaKai** | 阿里免費商用中文展示字，適合標題與品牌。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **baotuxiaobaiti** | 包圖中文展示字；全渠道免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **JasonHandwriting6p** | 手寫風格中文；作者聲明免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **jlangxizhuokai** | 楷書風格藝術字；作者聲明免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **Jon Block** | 實驗性 8×8 像素西文字體；個人與商用免費可用。 | En | 作者聲明 |
+| **Maoken Heavy Labourer** | 粗重中文展示字，適合標題與海報；免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **qiantubifengshouxieti** | 手寫 Script 風中文；免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **qiantuhouheiti** | 千圖厚黑體；免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **qiantumakeshouxieti** | 千圖手寫 Script 風；免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **qiantuxianmoti** | 裝飾風中文展示字；免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **QTxiaotu** | 活潑可愛中文展示字；免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **Sjpomo** | 三極潑墨體；網站標註可免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **VonwaonBitmap 16px** | 中文點陣像素字體，CC0 公有領域。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **XianErTi** | 中文展示字；公開聲明可免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
 
-### 展示字體
+### 多語（Multilingual）
+| 字體名稱 | 簡介 | 語言 | 授權 |
+|---|---|---|---|
+| **Alibaba Sans Thai** | 多語分支；阿里設計聲明可免費商用。 | En, Zh-Hant, Zh-Hans, th | 作者聲明 |
+| **Alibaba Sans Viet** | 越南語分支；可免費商用。 | En | 作者聲明 |
+| **Arita Buri** | Amorepacific Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
+| **Arita Dotum** | Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
+| **Arita Heiti** | Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
+| **Arita Sans** | Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
+| **IBM Plex Sans** | 多語家族豐富，覆蓋多種字母系統。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **IBM Plex Sans Arabic** | 阿拉伯分支。 | En, Zh-Hant, Zh-Hans, ar | 作者聲明 |
+| **IBM Plex Sans Devanagari** | 天城文分支。 | En, Zh-Hant, Zh-Hans, Hi | 作者聲明 |
+| **IBM Plex Sans Hebrew** | 希伯來文分支。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **IBM Plex Sans JP** | 日文分支。 | En, Zh-Hant, Zh-Hans, Ja | 作者聲明 |
+| **IBM Plex Sans KR** | 韓文分支。 | En, Zh-Hant, Zh-Hans, Ko | 作者聲明 |
+| **IBM Plex Sans Thai** | 泰文分支。 | En, Zh-Hant, Zh-Hans, Ja | 作者聲明 |
+| **IBM Plex Serif** | 多語支援範圍廣。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **LINE Seed JP** | OFL；可個人與商用。 | En, Zh-Hant, Zh-Hans, Ja | 作者聲明 |
+| **LINE Seed Sans EN** | OFL。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **LINE Seed Sans KR** | OFL；可個人與商用。 | En, Zh-Hant, Zh-Hans, Ko | 作者聲明 |
+| **LINE Seed Sans TH** | OFL；可個人與商用。 | En, Zh-Hant, Zh-Hans, th | 作者聲明 |
+| **MiSans** | 拉丁分支；作者聲明。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **MiSans Arabic/Devanagari/Gujarati/Gurmukhi/Khmer/Lao/Myanmar/Thai/Tibetan/TC/Latin/L3** | MiSans 多語分支；依 HyperOS 或作者聲明可免費商用。 | 依各語系（ar/Hi/gu/pa/km/lo/my/th/bo/TC/Latin） | 作者聲明 |
 
-| 字體名稱 | 描述 | 語言支援 | 授權類型 |
-|----------|------|----------|----------|
-| **阿里媽媽刀隸體** | 中文展示字體，具有藝術風格 | 中文 | 免費商用 |
-| **鳳凰點陣體 16px** | 中文像素點陣字體，適合復古設計 | 中文 | CC0 公有領域 |
-| **貓啃網扛重族黑** | 粗重中文展示字體，適合標題設計 | 中文 | 免費商用 |
-| **千圖小兔體** | 活潑可愛的中文展示字體 | 中文 | 免費商用 |
-| **三極潑墨體** | 中文展示字體，具有潑墨藝術風格 | 中文 | 免費商用 |
-
-### 手寫與書法體
-
-| 字體名稱 | 描述 | 語言支援 | 授權類型 |
-|----------|------|----------|----------|
-| **千圖筆鋒手寫體** | 手寫 Script 風格中文字體 | 中文 | 免費商用 |
-| **千圖馬克手寫體** | Script 風格中文展示字體，具有筆刷美學 | 中文 | 免費商用 |
-
-> 📋 **注意**: 這只是我們合集的一個範例。請造訪我們的 [完整互動資料庫](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74) 檢視完整合集，包含詳細資訊、下載連結、授權詳情和進階搜尋功能。
+### 西文（Latin）
+| 字體名稱 | 簡介 | 語言 | 授權 |
+|---|---|---|---|
+| **Aileron** | 幾何無襯線西文；可免費商用。 | En | 作者聲明 |
+| **Altinn-DIN** | 基於 D-DIN 的西文字體；OFL 釋出版。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **Bebas** | 高辨識度西文標題字；免費商用。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **Doge Sans** | 西文展示字；官網聲明免費商用。 | En | 作者聲明 |
+| **Inter** | 通用介面與閱讀友善；OFL。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **Jon Sans** | 可變西文字體；免費商用。 | En | 作者聲明 |
+| **LL Changer** | 可在襯線與無襯線變化；免費商用。 | En | 作者聲明 |
+| **Misto** | Behance 分享西文展示字；免費商用。 | En | 作者聲明 |
+| **NeverMind** | XMind 品牌西文，OFL，可變寬度，40+ 語言。 | En | 作者聲明 |
+| **xiaoheigungunti** | 站酷分享西文展示字；免費且可修改。 | En | 作者聲明 |
+| **Zhiyong Elegant** | latin-alphabet 字體設計；免費商用。 | En | 作者聲明 |
+| **ZhiyongWrite** | 西文手寫風展示字；免費商用。 | En | 作者聲明 |
 
 <p align="right">(<a href="#readme-top">回到頂部</a>)</p>
 

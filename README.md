@@ -83,41 +83,102 @@ Visit our **[Interactive Font Database](https://leonwong282.notion.site/font?v=3
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📖 Featured Fonts
+### Code Fonts
+| Font Name | Description | Languages | License |
+|-----------|-------------|-----------|---------|
+| **Fira Code** | Renowned for ligatures; optimized operators and symbols improve readability across languages. | En, Zh-Hant, Zh-Hans | OFL |
+| **Iosevka** | Highly customizable (widths, ligatures, stylistic sets); dense yet readable, fits more code per line. | En, Zh-Hant, Zh-Hans | OFL |
+| **JetBrains Mono** | Developer-focused monospace with excellent small-size clarity, rich ligatures, and clear glyph differentiation (1 l I, 0 O). | En, Zh-Hant, Zh-Hans | OFL |
+| **Source Code Pro** | Classic Adobe monospace with clean strokes and comfortable long-form reading; broad family coverage. | En, Zh-Hant, Zh-Hans | OFL |[[1]](view://3113cedb-ea13-433a-b584-65f2f47dff0a)
 
 ### Sans-Serif Fonts
-
 | Font Name | Description | Languages | License |
 |-----------|-------------|-----------|---------|
-| **Source Han Sans** | Adobe and Google's pan-CJK sans serif | CJK, Latin | OFL |
-| **Alimama ShuHeiTi** | Alibaba's free commercial Chinese sans | Chinese | Free Commercial |
-| **GenSenRounded TW** | Pan-CJK rounded style for UI and general typography | CJK | Free Commercial |
-| **MaokenAssortedSans** | Chinese sans serif for UI headings and general use | Chinese | Free Commercial |
+| **Alimama FangYuanTi VF** | Alimama free commercial Chinese sans-rounded family; usable across online and offline channels. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **Alimama ShuHeiTi** | Alibaba's free commercial Chinese sans; free to use across online and offline channels. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **GenSenRounded TW** | Pan-CJK rounded style, suitable for UI and general typesetting. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **MaokenAssortedSans** | Chinese sans serif for UI headings and general use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **Source Han Sans** | Adobe and Google’s pan-CJK sans serif; OFL licensed. | En, Zh-Hant, Zh-Hans, Ja, Ko | OFL |
+| **TsangershuYuanT** | Chinese rounded sans; listed under Free Fonts. | En, Zh-Hant, Zh-Hans | Author Statement |[[1]](view://3113cedb-ea13-433a-b584-65f2f47dff0a)
 
 ### Serif Fonts
-
 | Font Name | Description | Languages | License |
 |-----------|-------------|-----------|---------|
-| **Source Han Serif** | Pan-CJK serif typeface | CJK, Latin | OFL |
-| **TW-Sung** | Traditional Chinese Song/Serif style for body text | Chinese Traditional | Free Commercial |
-| **LXGW WenKai** | Chinese serif with elegant calligraphic style | Chinese | OFL |
-| **Ziticqnananti** | Chinese serif style with traditional aesthetics | Chinese | Free Commercial |
+| **LXGW WenKai** | Open source Chinese serif-style typeface under the SIL Open Font License (OFL). | En, Zh-Hant, Zh-Hans | OFL |
+| **Source Han Serif** | Pan-CJK serif typeface; OFL. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
+| **TW-Sung** | Traditional Chinese Song/Serif style for body text; free commercial use (author-declared). | En, Zh-Hant, Zh-Hans | Author Statement |
+| **ziticqnananti** | Chinese serif style; author-declared free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |[[1]](view://3113cedb-ea13-433a-b584-65f2f47dff0a)
 
 ### Display Fonts
-
 | Font Name | Description | Languages | License |
 |-----------|-------------|-----------|---------|
-| **Alimama DaoLiTi** | Chinese display typeface with artistic style | Chinese | Free Commercial |
-| **VonwaonBitmap 16px** | Chinese pixel bitmap font for retro designs | Chinese | CC0 Public Domain |
-| **Maoken Heavy Labourer** | Bold Chinese display perfect for headlines | Chinese | Free Commercial |
-| **QTxiaotu** | Playful Chinese display typeface | Chinese | Free Commercial |
-| **Sjpomo** | Chinese display with ink-splash artistic style | Chinese | Free Commercial |
+| **Alimama DaoLiTi** | Alibaba Chinese display; free commercial use per official statement. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **Alimama DongFangDaKai** | Alibaba free commercial Chinese display; suitable for headlines and branding. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **baotuxiaobaiti** | IBAOTU Chinese display; free for commercial use across channels. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **JasonHandwriting6p** | Handwritten Chinese style; author-declared free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **jlangxizhuokai** | Chinese Kai-style decorative font; author-declared free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **Jon Block** | Experimental 8×8 pixel Latin typeface; personal and commercial free use. | En | Author Statement |
+| **Maoken Heavy Labourer** | Bold Chinese display for headlines and posters; author-declared free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **qiantubifengshouxieti** | Handwritten script-style Chinese; author-declared free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **qiantuhouheiti** | Qiantu bold black Chinese display; free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **qiantumakeshouxieti** | Qiantu handwritten script-style Chinese display; free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **qiantuxianmoti** | Decorative Chinese style; author-declared free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **QTxiaotu** | Playful Chinese display; free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **Sjpomo** | Chinese display by S&J Type; site states free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **VonwaonBitmap 16px** | Free Chinese pixel bitmap font under CC0 Public Domain. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **XianErTi** | Chinese display; publicly stated free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |[[1]](view://3113cedb-ea13-433a-b584-65f2f47dff0a)
 
-### Script & Handwritten
-
+### Multilingual Fonts
 | Font Name | Description | Languages | License |
 |-----------|-------------|-----------|---------|
-| **Qiantubifengshouxieti** | Handwritten script-style Chinese | Chinese | Free Commercial |
-| **Qiantumakeshouxieti** | Script-style Chinese display with brush aesthetics | Chinese | Free Commercial |
+| **Alibaba Sans Thai** | Multilingual branch; free commercial use per Alibaba Design. | En, Zh-Hant, Zh-Hans, th | Author Statement |
+| **Alibaba Sans Viet** | Vietnamese variant; free commercial use per Alibaba Design. | En | Author Statement |
+| **Arita Buri** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
+| **Arita Dotum** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
+| **Arita Heiti** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
+| **Arita Sans** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
+| **IBM Plex Sans** | Large multilingual family covering multiple scripts; OFL. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **IBM Plex Sans Arabic** | OFL. | En, Zh-Hant, Zh-Hans, ar | Author Statement |
+| **IBM Plex Sans Devanagari** | OFL. | En, Zh-Hant, Zh-Hans, Hi | Author Statement |
+| **IBM Plex Sans Hebrew** | OFL. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **IBM Plex Sans JP** | OFL. | En, Zh-Hant, Zh-Hans, Ja | Author Statement |
+| **IBM Plex Sans KR** | OFL. | En, Zh-Hant, Zh-Hans, Ko | Author Statement |
+| **IBM Plex Sans Thai** | OFL. | En, Zh-Hant, Zh-Hans, Ja | Author Statement |
+| **IBM Plex Serif** | OFL; broad script coverage. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **LINE Seed JP** | OFL; free for personal and commercial use. | En, Zh-Hant, Zh-Hans, Ja | Author Statement |
+| **LINE Seed Sans EN** | OFL. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **LINE Seed Sans KR** | OFL; free for personal and commercial use. | En, Zh-Hant, Zh-Hans, Ko | Author Statement |
+| **LINE Seed Sans TH** | OFL; free for personal and commercial use. | En, Zh-Hant, Zh-Hans, th | Author Statement |
+| **MiSans** | Latin branch; author-declared. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **MiSans Arabic** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, ar | Author Statement |
+| **MiSans Devanagari** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, Hi | Author Statement |
+| **MiSans Gujarati** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, gu | Author Statement |
+| **MiSans Gurmukhi** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, pa | Author Statement |
+| **MiSans Khmer** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, km | Author Statement |
+| **MiSans L3** | MiSans Global family; free commercial use. | En | Author Statement |
+| **MiSans Lao** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, lo | Author Statement |
+| **MiSans Latin** | Author-declared. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **MiSans Myanmar** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, my | Author Statement |
+| **MiSans TC** | Traditional Chinese branch; free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **MiSans Thai** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, th | Author Statement |
+| **MiSans Tibetan** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, bo | Author Statement |[[1]](view://3113cedb-ea13-433a-b584-65f2f47dff0a)
+
+### Latin Fonts
+| Font Name | Description | Languages | License |
+|-----------|-------------|-----------|---------|
+| **Aileron** | Geometric sans-serif Latin by DOTCOLON; free commercial use. | En | Author Statement |
+| **Altinn-DIN** | Latin typeface based on D-DIN; OFL release branch. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **Bebas** | High-impact Latin display for headlines; free for commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **Doge Sans** | Latin display; official site states free commercial use. | En | Author Statement |
+| **Inter** | Versatile UI and reading-friendly Latin; OFL. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **Jon Sans** | Variable Latin; free for personal and commercial use. | En | Author Statement |
+| **LL Changer** | Variable Latin, morphing serif to sans; free commercial use. | En | Author Statement |
+| **Misto** | Latin display on Behance; free for personal and commercial use. | En | Author Statement |
+| **NeverMind** | XMind’s brand custom Latin; OFL, variable widths; 40+ languages. | En | Author Statement |
+| **xiaoheigungunti** | Latin display on ZCOOL; free, open to modification. | En | Author Statement |
+| **Zhiyong Elegant** | Latin-alphabet type design; free commercial use. | En | Author Statement |
+| **ZhiyongWrite** | Script-style Latin display; free commercial use. | En | Author Statement |[[1]](view://3113cedb-ea13-433a-b584-65f2f47dff0a)
+
 
 > 📋 **Note**: This is just a sample of our collection. Visit our [complete interactive database](https://leonwong282.notion.site/font?v=3113cedbea13433ab58465f2f47dff0a&pvs=74) for the full collection with detailed information, download links, licensing details, and advanced search capabilities.
 
@@ -160,11 +221,6 @@ We welcome contributions! Help us expand our curated collection of free fonts.
 5. Open a Pull Request
 
 See our [Contributing Guide](CONTRIBUTING.md) for detailed guidelines.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-See the [open issues](https://github.com/leonwong282/featured-free-font/issues) for a full list of proposed features and suggestions.
 
 See the [open issues](https://github.com/leonwong282/featured-free-font/issues) for a full list of proposed features and suggestions.
 
