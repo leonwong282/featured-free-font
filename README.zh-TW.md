@@ -132,8 +132,6 @@
 ### 多語（Multilingual）
 | 字體名稱 | 簡介 | 語言 | 授權 |
 |---|---|---|---|
-| **Alibaba Sans Thai** | 多語分支；阿里設計聲明可免費商用。 | En, Zh-Hant, Zh-Hans, th | 作者聲明 |
-| **Alibaba Sans Viet** | 越南語分支；可免費商用。 | En | 作者聲明 |
 | **Arita Buri** | Amorepacific Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
 | **Arita Dotum** | Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
 | **Arita Heiti** | Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
@@ -150,8 +148,6 @@
 | **LINE Seed Sans EN** | OFL。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
 | **LINE Seed Sans KR** | OFL；可個人與商用。 | En, Zh-Hant, Zh-Hans, Ko | 作者聲明 |
 | **LINE Seed Sans TH** | OFL；可個人與商用。 | En, Zh-Hant, Zh-Hans, th | 作者聲明 |
-| **MiSans** | 拉丁分支；作者聲明。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
-| **MiSans Arabic/Devanagari/Gujarati/Gurmukhi/Khmer/Lao/Myanmar/Thai/Tibetan/TC/Latin/L3** | MiSans 多語分支；依 HyperOS 或作者聲明可免費商用。 | 依各語系（ar/Hi/gu/pa/km/lo/my/th/bo/TC/Latin） | 作者聲明 |
 
 ### 西文（Latin）
 | 字體名稱 | 簡介 | 語言 | 授權 |

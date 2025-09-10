@@ -131,8 +131,6 @@ Visit our **[Interactive Font Database](https://leonwong282.notion.site/font?v=3
 ### Multilingual Fonts
 | Font Name | Description | Languages | License |
 |-----------|-------------|-----------|---------|
-| **Alibaba Sans Thai** | Multilingual branch; free commercial use per Alibaba Design. | En, Zh-Hant, Zh-Hans, th | Author Statement |
-| **Alibaba Sans Viet** | Vietnamese variant; free commercial use per Alibaba Design. | En | Author Statement |
 | **Arita Buri** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
 | **Arita Dotum** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
 | **Arita Heiti** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
@@ -149,19 +147,6 @@ Visit our **[Interactive Font Database](https://leonwong282.notion.site/font?v=3
 | **LINE Seed Sans EN** | OFL. | En, Zh-Hant, Zh-Hans | Author Statement |
 | **LINE Seed Sans KR** | OFL; free for personal and commercial use. | En, Zh-Hant, Zh-Hans, Ko | Author Statement |
 | **LINE Seed Sans TH** | OFL; free for personal and commercial use. | En, Zh-Hant, Zh-Hans, th | Author Statement |
-| **MiSans** | Latin branch; author-declared. | En, Zh-Hant, Zh-Hans | Author Statement |
-| **MiSans Arabic** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, ar | Author Statement |
-| **MiSans Devanagari** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, Hi | Author Statement |
-| **MiSans Gujarati** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, gu | Author Statement |
-| **MiSans Gurmukhi** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, pa | Author Statement |
-| **MiSans Khmer** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, km | Author Statement |
-| **MiSans L3** | MiSans Global family; free commercial use. | En | Author Statement |
-| **MiSans Lao** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, lo | Author Statement |
-| **MiSans Latin** | Author-declared. | En, Zh-Hant, Zh-Hans | Author Statement |
-| **MiSans Myanmar** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, my | Author Statement |
-| **MiSans TC** | Traditional Chinese branch; free commercial use. | En, Zh-Hant, Zh-Hans | Author Statement |
-| **MiSans Thai** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, th | Author Statement |
-| **MiSans Tibetan** | Free commercial use per HyperOS statement. | En, Zh-Hant, Zh-Hans, bo | Author Statement |[[1]](view://3113cedb-ea13-433a-b584-65f2f47dff0a)
 
 ### Latin Fonts
 | Font Name | Description | Languages | License |
