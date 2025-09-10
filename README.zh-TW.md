@@ -132,18 +132,7 @@
 ### 多語（Multilingual）
 | 字體名稱 | 簡介 | 語言 | 授權 |
 |---|---|---|---|
-| **Arita Buri** | Amorepacific Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
-| **Arita Dotum** | Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
-| **Arita Heiti** | Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
-| **Arita Sans** | Arita 家族；日常與商業可免費用。 | En, Zh-Hant, Zh-Hans, Ja, Ko | 作者聲明 |
-| **IBM Plex Sans** | 多語家族豐富，覆蓋多種字母系統。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
-| **IBM Plex Sans Arabic** | 阿拉伯分支。 | En, Zh-Hant, Zh-Hans, ar | 作者聲明 |
-| **IBM Plex Sans Devanagari** | 天城文分支。 | En, Zh-Hant, Zh-Hans, Hi | 作者聲明 |
-| **IBM Plex Sans Hebrew** | 希伯來文分支。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
-| **IBM Plex Sans JP** | 日文分支。 | En, Zh-Hant, Zh-Hans, Ja | 作者聲明 |
-| **IBM Plex Sans KR** | 韓文分支。 | En, Zh-Hant, Zh-Hans, Ko | 作者聲明 |
-| **IBM Plex Sans Thai** | 泰文分支。 | En, Zh-Hant, Zh-Hans, Ja | 作者聲明 |
-| **IBM Plex Serif** | 多語支援範圍廣。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
+| **IBM Plex** | 多語家族豐富，覆蓋多種字母系統。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
 | **LINE Seed JP** | OFL；可個人與商用。 | En, Zh-Hant, Zh-Hans, Ja | 作者聲明 |
 | **LINE Seed Sans EN** | OFL。 | En, Zh-Hant, Zh-Hans | 作者聲明 |
 | **LINE Seed Sans KR** | OFL；可個人與商用。 | En, Zh-Hant, Zh-Hans, Ko | 作者聲明 |

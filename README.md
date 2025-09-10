@@ -131,18 +131,7 @@ Visit our **[Interactive Font Database](https://leonwong282.notion.site/font?v=3
 ### Multilingual Fonts
 | Font Name | Description | Languages | License |
 |-----------|-------------|-----------|---------|
-| **Arita Buri** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
-| **Arita Dotum** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
-| **Arita Heiti** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
-| **Arita Sans** | Amorepacific’s Arita family; free for daily life and business contexts. | En, Zh-Hant, Zh-Hans, Ja, Ko | Author Statement |
-| **IBM Plex Sans** | Large multilingual family covering multiple scripts; OFL. | En, Zh-Hant, Zh-Hans | Author Statement |
-| **IBM Plex Sans Arabic** | OFL. | En, Zh-Hant, Zh-Hans, ar | Author Statement |
-| **IBM Plex Sans Devanagari** | OFL. | En, Zh-Hant, Zh-Hans, Hi | Author Statement |
-| **IBM Plex Sans Hebrew** | OFL. | En, Zh-Hant, Zh-Hans | Author Statement |
-| **IBM Plex Sans JP** | OFL. | En, Zh-Hant, Zh-Hans, Ja | Author Statement |
-| **IBM Plex Sans KR** | OFL. | En, Zh-Hant, Zh-Hans, Ko | Author Statement |
-| **IBM Plex Sans Thai** | OFL. | En, Zh-Hant, Zh-Hans, Ja | Author Statement |
-| **IBM Plex Serif** | OFL; broad script coverage. | En, Zh-Hant, Zh-Hans | Author Statement |
+| **IBM Plex** | Large multilingual family covering multiple scripts; OFL. | En, Zh-Hant, Zh-Hans | Author Statement |
 | **LINE Seed JP** | OFL; free for personal and commercial use. | En, Zh-Hant, Zh-Hans, Ja | Author Statement |
 | **LINE Seed Sans EN** | OFL. | En, Zh-Hant, Zh-Hans | Author Statement |
 | **LINE Seed Sans KR** | OFL; free for personal and commercial use. | En, Zh-Hant, Zh-Hans, Ko | Author Statement |
